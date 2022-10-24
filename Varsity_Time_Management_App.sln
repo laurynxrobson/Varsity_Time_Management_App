@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varsity_Time_Management_App", "Varsity_Time_Management_App\Varsity_Time_Management_App.csproj", "{1B727AE6-7747-4023-BC47-CDAF175691C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataNCalc", "DataNCal\DataNCalc.csproj", "{19602AC2-5D01-4372-BFAF-2CBF912B3138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B727AE6-7747-4023-BC47-CDAF175691C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B727AE6-7747-4023-BC47-CDAF175691C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B727AE6-7747-4023-BC47-CDAF175691C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B727AE6-7747-4023-BC47-CDAF175691C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19602AC2-5D01-4372-BFAF-2CBF912B3138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19602AC2-5D01-4372-BFAF-2CBF912B3138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19602AC2-5D01-4372-BFAF-2CBF912B3138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19602AC2-5D01-4372-BFAF-2CBF912B3138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD350E8-8BB5-4E20-8C4D-949346EC7C6D}
+	EndGlobalSection
+EndGlobal
